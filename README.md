@@ -1,6 +1,6 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Pachara Pethshee
 ========================================================================================================================================
-
+### Computer Engineering , Srinakharinwirot University (SWU), Thailand<br><br>
 Software Developer
 ------------------
 
